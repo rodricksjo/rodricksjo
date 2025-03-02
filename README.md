@@ -15,5 +15,13 @@
 ## 🔗PowerBI Dashboards
 1.[Sales Dashboard](https://github.com/rodricksjo/Powerbi_Dashboards/blob/main/Sales%20Dashboard%20.jpg)<br>
 2.[Electric Vehicle Dashboard](https://github.com/rodricksjo/Powerbi_Dashboards/blob/main/EV%20Dashboard.jpg)<br>
+
+## 🔗Exploratory Data Analysis
+1. [EDA IPL 2024 Data](https://github.com/rodricksjo/EDA-IPL-2024-Analysis)<br>
+2. [EDA EPL 2023-2024 Data](https://github.com/rodricksjo/EDA-EPL-2023-2024)<br>
+
+## 🔗Python 
+1. [Web Scraping Games website](https://github.com/rodricksjo/Scraping_website/blob/main/Web%20Scrapper%20for%20Video%20Games%20page.ipynb)<br>
+2. [Web Scraping Real Estate website](https://github.com/rodricksjo/Scraping_website/blob/main/Real_estate_data_scraping.ipynb)<br>
 ---
 [![](https://visitcount.itsvg.in/api?id=rodricksjo&icon=0&color=0)](https://visitcount.itsvg.in)

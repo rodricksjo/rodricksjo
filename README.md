@@ -12,5 +12,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+## 🔗PowerBI Dashboards
+1.[Sales Dashboard](https://github.com/rodricksjo/Powerbi_Dashboards/blob/main/Sales%20Dashboard%20.jpg)<br>
+2.[Electric Vehicle Dashboard](https://github.com/rodricksjo/Powerbi_Dashboards/blob/main/EV%20Dashboard.jpg)<br>
 ---
 [![](https://visitcount.itsvg.in/api?id=rodricksjo&icon=0&color=0)](https://visitcount.itsvg.in)

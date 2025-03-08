@@ -15,6 +15,7 @@
 ## 🔗PowerBI Dashboards
 1.[Sales Dashboard](https://github.com/rodricksjo/Powerbi_Dashboards/blob/main/Sales%20Dashboard%20.jpg)<br>
 2.[Electric Vehicle Dashboard](https://github.com/rodricksjo/Powerbi_Dashboards/blob/main/EV%20Dashboard.jpg)<br>
+3.[Personal Finance Dashboard](https://github.com/rodricksjo/Powerbi_Dashboards/blob/main/PersonalFinaceDashb.jpg)<br>
 
 ## 🔗Exploratory Data Analysis
 1. [EDA IPL 2024 Data](https://github.com/rodricksjo/EDA-IPL-2024-Analysis)<br>
